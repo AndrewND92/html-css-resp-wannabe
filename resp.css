@@ -6,17 +6,17 @@
     width: 100%;
     margin: 0 auto;
   }
-  #lezioni img {
-    height: 400px;
+  .row {
+   width: 100%;
+  }
+  img{
     max-width: 100%;
   }
-  #lezioni h1 {
-    font-size: 50px;
+  #lezioni .row img{
+    width: 250px;
+    height: auto;
+    margin: 20px auto;
   }
-  #lezioni h3{
-    font-size: 40px;
-  }
-
   /* secondo blocco */
   #steps .row>.left,
   #steps .row>.central,
@@ -25,21 +25,7 @@
     width: 100%;
     margin: 0 auto;
   }
-  #steps img {
-    height: 400px;
-    max-width: 100%;
-    margin: 40px 0;
-  }
-  #step .container, .grey .row  h1 {
-    font-size: 50px;
-  }
-  #step .container, .grey .row h3{
-    font-size: 40px;
-  }
- /* terzo blocco  */
- #why .row img{
-   height: 300px;
-   max-width: 100%;
- }
+
+
 
 }
