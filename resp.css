@@ -16,4 +16,27 @@
   #lezioni h3{
     font-size: 40px;
   }
+
+  /* seocndo blocco */
+  #steps .row>.left,
+  #steps .row>.central,
+  #steps .row>.right {
+    float: none;
+    width: 100%;
+    margin: 0 auto;
+  }
+  #steps img {
+    height: 400px;
+    max-width: 100%;
+    margin: 40px 0;
+  }
+  #step .container, .grey .row  h1 {
+    font-size: 50px;
+  }
+  #step .container, .grey .row h3{
+    font-size: 40px;
+  }
+
+
+
 }
