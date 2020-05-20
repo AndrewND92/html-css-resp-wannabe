@@ -17,7 +17,7 @@
     font-size: 40px;
   }
 
-  /* seocndo blocco */
+  /* secondo blocco */
   #steps .row>.left,
   #steps .row>.central,
   #steps .row>.right {
@@ -36,7 +36,10 @@
   #step .container, .grey .row h3{
     font-size: 40px;
   }
-
-
+ /* terzo blocco  */
+ #why .row img{
+   height: 300px;
+   max-width: 100%;
+ }
 
 }
